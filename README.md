@@ -132,7 +132,7 @@ memory usage: 409.7 MB
     <strong>Monthly Ride Activity by Subscription Type (2024)</strong><br><br>
     <img src="./graphs/04. Monthly Ride Activity by Subscription Type (2024).png" alt="Monthly Ride Activity by Subscription">
     <ul>
-      <li>Membership usage exceeds casual usage by 10,000–30,000 rides throughout the year.</li>
+      <li>Membership usage exceeds casual usage by 10,000-30,000 rides throughout the year.</li>
       <li>Significant rise in activity between May and September; drop-off begins in October.</li>
       <li>Late summer shows peak activity for both groups.</li>
     </ul>
